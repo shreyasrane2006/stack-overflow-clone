@@ -9,7 +9,7 @@ const Users = () => {
 
   const location = useLocation()
 
-
+  console.log(location)
   return (
     <div className='home-container-1'>
       <LeftSidebar />
